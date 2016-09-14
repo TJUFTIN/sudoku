@@ -6,4 +6,8 @@ dqfwef
 r
 23r
 
+<<<<<<< HEAD
 Hello new branck
+=======
+branch master
+>>>>>>> master

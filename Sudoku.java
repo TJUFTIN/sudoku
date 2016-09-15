@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Created by IEUser on 18.06.2016.
  */
-public class Sudoku { //test
+public class Sudoku { //test1
     static boolean duplicates = false;
     static ArrayList<TableTree> tableTreeList = new ArrayList<>();
 

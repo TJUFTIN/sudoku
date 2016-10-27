@@ -15,7 +15,7 @@ public class Sudoku { //test3
     public static void main(String[] args) {
         Date d = new Date();
         System.out.println(d);
-        int versionOfTableInitialization = 3; //23 (1) ok, 25 (4) ok, 27 (5) ok, 30 (6) ok, 17 (7), (2) ok, (3) ok
+        int versionOfTableInitialization = 33; //23 (1) ok, 25 (4) ok, 27 (5) ok, 30 (6) ok, 17 (7), (2) ok, (3) ok
         int iterationNumber = 0;
 
         Var[][] table = new Var[9][9];
